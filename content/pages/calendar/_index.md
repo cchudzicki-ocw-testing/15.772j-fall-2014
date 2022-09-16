@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of course topics, activities, readings,
+  and key dates. Citations and links to the readings and supporting files are included.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar

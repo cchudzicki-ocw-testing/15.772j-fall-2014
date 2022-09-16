@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides selected lecture notes from the course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -11,7 +12,7 @@ All lecture notes available are provided as follows:
 
 {{% resource_link f0b14b97-285c-a197-5bb2-86fd5a1deb9b "Lecture 01 Introduction and Course Overview: Supply Chain Challenges (PDF - 2.5MB)" %}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 9f37e33e-7bcc-405e-f9c5-6789433f814c "Lecture 03 Supply Chain Dynamics: Beer Game (PDF - 1.3MB)" %}}
+{{% resource_link 9f37e33e-7bcc-405e-f9c5-6789433f814c "Lecture 03 Supply Chain Dynamics: Beer Game (PDF - 1.3MB)" %}}
 
 {{% resource_link 223baf42-bfc2-f7c5-8ed8-840ef5a9c2d6 "Lecture 04–05 Demand Management and Forecasting (PDF - 1.5MB)" %}}
 
